@@ -1,0 +1,25 @@
+_repo: Higher-Lessons-in-English-A-work-on-English-grammar-and-composition_7188
+creator:
+  authors:
+  - agent_name: Reed, Alonzo
+    deathdate: 1899
+    gutenberg_agent_id: '2300'
+    url: http://www.gutenberg.org/2009/agents/2300
+  - agent_name: Kellogg, Brainerd
+    gutenberg_agent_id: '2301'
+    url: http://www.gutenberg.org/2009/agents/2301
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar'
+title: 'Higher Lessons in English: A work on English grammar and composition'
+url: http://www.gutenberg.org/ebooks/7188
